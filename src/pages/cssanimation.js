@@ -1,8 +1,9 @@
 import React from 'react'
+import Spin from '../css-animation/square-spin'
 import './cssanimation.css'
 
 export default () => (
   <div>
-    <h1>CSS Animation</h1>
+    <Spin />
   </div>
 )
