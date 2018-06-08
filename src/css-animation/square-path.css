@@ -1,0 +1,17 @@
+.square-path {
+  background-color: #fff;
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+  transform: translate(-100%, -100%);
+  animation-name: squarepath;
+  animation-duration: 2s;
+}
+
+@keyframes squarepath {
+  0%, 100% { transform: translate(-100%, -100%); }
+  25% { transform: translate(100%, -100%); }
+  50% { transform: translate(100%, 100%); }
+  75% { transform: translate(-100%, 100%); }
+}
+
