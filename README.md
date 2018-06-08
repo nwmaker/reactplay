@@ -10,4 +10,12 @@
 yarn add font-awesome
 ```
 
+## css animation
+
+### Ask yourself three questions before starting anything:
+* [what to animate](http://leaverou.github.io/animatable/) or [what can be animated?](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties) or [what to choose with performance?](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+* where to place the animation? and
+* when?
+
+
 
