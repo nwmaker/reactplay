@@ -1,0 +1,16 @@
+.palette {
+  max-width: 100%;
+  border-radius: 6px;
+  position: relative;
+  display: block;
+}
+
+.place {
+  position: absolute;
+  width: 100%;
+}
+
+.c4 {
+  border-radius: 20px 20px 4px 4px;
+}
+

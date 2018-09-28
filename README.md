@@ -1,5 +1,11 @@
 # React Play
 
+## upgrade to CRA v2
+
+```
+yarn add react-scripts@next
+```
+
 ## setup with [Create React App](https://github.com/facebookincubator/create-react-app)
 
 ## comps: navbar
